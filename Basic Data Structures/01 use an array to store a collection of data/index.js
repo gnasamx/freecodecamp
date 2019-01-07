@@ -1,0 +1,1 @@
+let yourArray = [true, 11, "Sam", undefined, {name: "Sam", age: 21}]; // change this line

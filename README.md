@@ -1,6 +1,6 @@
 ### JavaScript Algorithms and Data Structures
 
-My personal :triangular*flag_on_post: goal was to complete my \_FreeCodeCamp* **JavaScript Algorithm & Data Structures** certification, and :tada: here it is.
+My personal :triangular_flag_on_post:  goal was to complete my _FreeCodeCamp_ **JavaScript Algorithm & Data Structures** certification, and :tada: here it is.
 
 ![My Certificate](https://github.com/gnasamx/FreeCodeCamp/blob/master/Certificate/FreeCodeCamp%20Certificaite.png)
 
